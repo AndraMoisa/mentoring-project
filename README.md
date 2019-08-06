@@ -20,7 +20,6 @@ Recrutemed application uses the Spring Profiles approach to separate parts of ap
 #### Required dependencies
 These are the required dependencies for the project:
 
-	- Wiremock (for testing purposes)
 	- flyway (for database versioning)
 	- H2 in-memory database (local development ldev profile)
 	- PostgreSQL database (local development ldevpg profile - refer to PostgreSQL database and pgAdmin4 run as docker containers)
